@@ -54,6 +54,7 @@ $Events = [
 "2007" => ["content" => "Premiere campagne pour l'assemblée de district"],//2007-07-01
 "2009" => ["content" => "Nouveau format des réunions + culte familial"],//2009-01-01
 "2012" => ["content" => "Lancement du nouveau JW.ORG"],//2012-08-27
+"2020" => ["content" => "To be deleted"],//2012-08-27
 /*"0000" => ["content" => ""],	// 
 "0000" => ["content" => ""],	// 
 0000" => ["content" => ""],	// 
